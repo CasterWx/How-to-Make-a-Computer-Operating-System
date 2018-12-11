@@ -6,7 +6,7 @@
 
 ### 什么是x86架构?
 
-> The term x86 denotes a family of backward compatible instruction set architectures based on the Intel 8086 CPU.
+> The term x86 denotes a  family of backward compatible instruction set architectures based on the Intel 8086 CPU.
 
 > x86是指一组基于Intel 8086 CPU的向后兼容指令集架构。
 
